@@ -3,7 +3,7 @@
 ## Ziel
 Als Abschlussarbeit der Berufsmaturität (IDPA) , habe ich dem Billetautomat der SBB ein neues Design verpasst und mit einigen neuen Features ausgestattet. 
 
-![Poster](Poster.png)
+![Poster](Poster.jpg)
 
 ### Einzelne Screens
 Starscreen
