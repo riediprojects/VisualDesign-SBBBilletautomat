@@ -6,8 +6,8 @@ Als Abschlussarbeit der Berufsmaturität (IDPA) , habe ich dem Billetautomat der
 ### Einzelne Screens
 ![Starscreen](Startscreen.png)
 ![Time-Line](Time-Line.png)
-![Billettewahl1](Billettewahl Seite 1.png)
-![Billettewahl2](Billettewahl Seite 2.png)
-![Billettewahl3](Billettewahl Seite 3.png)
-![Billettewahl4]Billettewahl Seite 4.png)
+![Billettewahl1](Billettewahl1.png)
+![Billettewahl2](Billettewahl2.png)
+![Billettewahl3](Billettewahl3.png)
+![Billettewahl4](Billettewahl4.png)
 
