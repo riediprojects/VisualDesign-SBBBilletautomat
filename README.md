@@ -1,7 +1,7 @@
-# App Design SBB_Billetautomat
+# Software Visual Design: Redesign SBB_Billetautomat
 
 ## Ziel
-Als Abschlussarbeit der Berufsmaturität (IDPA) , habe ich dem Billetautomat der SBB ein neues Design verpasst und mit einigen neuen Features ausgestattet. 
+Als Abschlussarbeit der Berufsmaturität (IDPA) 2105, habe ich dem Billetautomat der SBB ein neues Design verpasst und mit einigen neuen Features ausgestattet. 
 
 ![Poster](PosterReduced.png)
 
